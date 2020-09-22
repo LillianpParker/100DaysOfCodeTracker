@@ -7,7 +7,7 @@
 
 
 ## My Repos
- 1. [Challenges Repo]()
+ 1. [Challenges Repo](https://github.com/LillianpParker/100-Days-Of-Code-Challenges.git)
  1. [project 1 code]()
  1. [project 2 code]()
  1. [project 3 code]()
@@ -15,6 +15,8 @@
  1. [project 5 code]()
  1. [project 6 code]()
  1. [project 7 code]()
+
+***Note: I've kept the first five challenges I've made for reference on the day they were created, 6 onward are in their own repo
 
 ## JOIN
 [Discord Link](https://discord.gg/wJ4y2Jc)
