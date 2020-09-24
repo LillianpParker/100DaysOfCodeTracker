@@ -16,7 +16,7 @@
  1. [project 6 code]()
  1. [project 7 code]()
 
-***Note: I've kept the first five challenges I've made for reference on the day they were created, 6 onward are in their own repo
+***Note: I have a screen shot of the first five days and when they were commited: things got a little messy when I had to change them to their own repository and had had GitGuardian on my back.
 
 ## JOIN
 [Discord Link](https://discord.gg/wJ4y2Jc)
