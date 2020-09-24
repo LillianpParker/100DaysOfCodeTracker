@@ -8,7 +8,7 @@
 
 ## My Repos
  1. [Challenges Repo](https://github.com/LillianpParker/100-Days-Of-Code-Challenges.git)
- 1. [project 1 code](https://github.com/LillianpParker/Book-In-It)
+ 1. [project 1 code](https://github.com/LillianpParker/Book-In-It-Frontend)
  1. [project 2 code]()
  1. [project 3 code]()
  1. [project 4 code]()
